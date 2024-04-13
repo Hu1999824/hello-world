@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-13T11:04:18.934Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="V6f_dcr5SDnatM6mR90_" version="24.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-13T11:24:16.407Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="CIUOB55se2is6MCj91d-" version="24.1.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="954" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,8 +10,32 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Background:food consumption has undergo a transformation&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="200" y="40" width="300" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JAdeiNU-k7o079FkKViK-0" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Background:food consumption has undergo a transformation&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="JAdeiNU-k7o079FkKViK-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JAdeiNU-k7o079FkKViK-0" target="JAdeiNU-k7o079FkKViK-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JAdeiNU-k7o079FkKViK-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JAdeiNU-k7o079FkKViK-0" target="JAdeiNU-k7o079FkKViK-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JAdeiNU-k7o079FkKViK-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JAdeiNU-k7o079FkKViK-0" target="JAdeiNU-k7o079FkKViK-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JAdeiNU-k7o079FkKViK-0" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;technology innovation&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="210" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JAdeiNU-k7o079FkKViK-3" value="because" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JAdeiNU-k7o079FkKViK-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;enhance agricultural productivity&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="420" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JAdeiNU-k7o079FkKViK-6" value="negative" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JAdeiNU-k7o079FkKViK-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;convenience and accessibility&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="270" y="420" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JAdeiNU-k7o079FkKViK-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;improve food diversity&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="420" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
