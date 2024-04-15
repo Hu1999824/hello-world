@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T06:35:43.321Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="zs1sbbiT8XzPyxx7O-CM" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-15T06:36:56.279Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="3s__1KKEH5Na2shv6nox" version="24.2.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1781" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,11 +40,22 @@
         <mxCell id="JAdeiNU-k7o079FkKViK-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;improve food diversity&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="827" y="420" width="160" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="a38-KcJ0gP-eux7d_FcP-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="a38-KcJ0gP-eux7d_FcP-1" target="a38-KcJ0gP-eux7d_FcP-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="a38-KcJ0gP-eux7d_FcP-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;transportation improve&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-20" y="600" width="160" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="a38-KcJ0gP-eux7d_FcP-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="a38-KcJ0gP-eux7d_FcP-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="a38-KcJ0gP-eux7d_FcP-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;shopping online&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="230" y="600" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="a38-KcJ0gP-eux7d_FcP-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;shopping pattern has changed&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="780" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
